@@ -18,7 +18,7 @@ public class RestAPITest {
 		when().
 			get("/utilities/weatherfull/city/jammu").
 			
-			then().assertThat().statusCode(200).and().contentType(ContentType.JSON);
+			then().assertThat().statusCode(201).and().contentType(ContentType.JSON);
 		System.out.print("WEATHER API");
 	}
 	
