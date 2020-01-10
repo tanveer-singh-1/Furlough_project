@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5986" started-at="2020-01-10T16:49:43 IST" finished-at="2020-01-10T16:49:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5986" started-at="2020-01-10T16:49:43 IST" finished-at="2020-01-10T16:49:49 IST">
+      <class name="furlough.project.RestAPITest">
+        <test-method status="PASS" signature="weatherAPI()[pri:0, instance:furlough.project.RestAPITest@1e43e323]" name="weatherAPI" duration-ms="5609" started-at="2020-01-10T16:49:43 IST" finished-at="2020-01-10T16:49:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weatherAPI -->
+      </class> <!-- furlough.project.RestAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
